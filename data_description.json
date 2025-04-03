@@ -1,0 +1,12 @@
+{
+	"year": INT
+	"description": "year in time"
+},
+{
+	"primary enrollment": FLOAT
+	"description": "countries primary enrollment in thousands"
+},
+{
+	"GDP": FLOAT
+	"description": "the country GDP per capita in current US dollars"
+}
